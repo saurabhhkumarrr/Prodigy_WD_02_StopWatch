@@ -17,4 +17,5 @@ start, stop, pause, count lap, restart lap, reset laps
 # To open
 Clone the program to your local machine.
 
-
+#To run
+https://codepen.io/Saurabh-the-encoder/pen/yLWewVL
